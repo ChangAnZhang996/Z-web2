@@ -1,0 +1,9 @@
+{
+  "glm4v": {
+    "api_url": "https://open.bigmodel.cn/api/paas/v4/chat/completions",
+    "api_key": "REPLACE_WITH_YOUR_KEY",
+    "model": "glm-4v-plus",
+    "timeout_seconds": 30
+  },
+  "notes": "此文件不包含真实密钥。将实际密钥放入环境变量 GLM4V_API_KEY 或在 .env 中配置。"
+}

@@ -1,0 +1,2 @@
+cert_id,submitter_id,submitter_role,student_id,student_name,department,competition_name,award_category,award_level,competition_type,organizer,award_date,advisor,file_path,status,submitted_at
+1,2,student,2020123456789,张三,计算机学院,全国大学生程序设计竞赛,省级,一等奖,A类,教育部高校,2024-09,李老师,uploads/sample_image.png,submitted,2024-09-15T10:00:00

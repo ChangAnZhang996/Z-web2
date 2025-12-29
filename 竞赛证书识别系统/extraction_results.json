@@ -1,0 +1,16 @@
+{
+  "sample_image.png": {
+    "student_name": "张三",
+    "student_id": "2020123456789",
+    "department": "计算机学院",
+    "competition_name": "全国大学生程序设计竞赛",
+    "award_category": "省级",
+    "award_level": "一等奖",
+    "competition_type": "A类",
+    "organizer": "教育部高校",
+    "award_date": "2024-09",
+    "advisor": "李老师",
+    "extraction_method": "glm4v",
+    "extraction_confidence": 0.88
+  }
+}
