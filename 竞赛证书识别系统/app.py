@@ -1333,6 +1333,8 @@ def main():
     # 确保数据库表已创建
     from database import SQLModel, engine
     SQLModel.metadata.create_all(engine)
+    # 确保管理员账户已创建
+    init_db()  # 添加这一行
     
     inject_css()
     init_state()
